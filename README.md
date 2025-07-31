@@ -1,2 +1,2 @@
-# PRAINIC_WagnerAjcuc_202011361
-Practicas Iniciales  
+# Practicas Iniciales
+  WAGNER JACOB AJCUC SAMBRANO 202011361 2S 2025
